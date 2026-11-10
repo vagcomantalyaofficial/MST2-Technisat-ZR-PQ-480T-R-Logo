@@ -10,6 +10,19 @@ Custom 800×480 boot animation for **MIB2 STD Technisat / PREH** units.
 
 ---
 
+## VAO MST Startanim Boot Tool v1.0.1
+
+Windows GUI companion for this project: export a `startup_N.boot` to PNG, edit the images, and repack. Includes a one-step **Easy Logo** mode with GIF preview.
+
+- 🖥️ Windows 10/11 — standalone EXE, no Python required
+- 🌍 4 languages: **Türkçe · Русский · English · Deutsch**
+- 🎨 Export → PNG · Import → `.boot` · Easy Logo · overlay cleanup · GIF preview
+- 🏷️ **VAO / vagcomantalyaofficial** · **Made with ♥**
+
+**[⬇ Download VAO_MST_Startanim_Boot_Tool_v1.0.1.exe](VAO_MST_Startanim_Boot_Tool_v1.0.1.exe)**
+
+---
+
 ## Türkçe
 
 ### Nedir?
@@ -23,6 +36,8 @@ Bu depo, MIB2 STD **Technisat / PREH** üniteler için 800×480 çözünürlükl
 - Orijinal **“Sound by DYNAUDIO”** bitişi korunur.
 
 > **Technisat ZR/PQ 480T üzerinde test edilmiştir.** (SW 0480-2, HW H30)
+
+> **Boot Tool v1.0.1:** Windows için hazır EXE — [indir](VAO_MST_Startanim_Boot_Tool_v1.0.1.exe) · 4 dil · Made with ♥ by VAO / vagcomantalyaofficial.
 
 ### Teknik bilgiler
 
@@ -94,6 +109,8 @@ Dieses Repository enthält eine individuelle 800×480-Startanimation für **MIB2
 
 > **Getestet auf Technisat ZR/PQ 480T.** (SW 0480-2, HW H30)
 
+> **Boot Tool v1.0.1:** Fertige Windows-EXE — [Download](VAO_MST_Startanim_Boot_Tool_v1.0.1.exe) · 4 Sprachen · Made with ♥ by VAO / vagcomantalyaofficial.
+
 ### Technische Daten
 
 | Feld | Wert |
@@ -163,6 +180,8 @@ This repository contains a custom 800×480 boot animation for **MIB2 STD Technis
 - The original **“Sound by DYNAUDIO”** ending is preserved.
 
 > **Tested on Technisat ZR/PQ 480T.** (SW 0480-2, HW H30)
+
+> **Boot Tool v1.0.1:** Ready-to-run Windows EXE — [download](VAO_MST_Startanim_Boot_Tool_v1.0.1.exe) · 4 languages · Made with ♥ by VAO / vagcomantalyaofficial.
 
 ### Technical details
 
@@ -234,6 +253,8 @@ Built with the **MST2 Startanim Boot Tool**.
 
 > **Протестировано на Technisat ZR/PQ 480T.** (SW 0480-2, HW H30)
 
+> **Boot Tool v1.0.1:** Готовая Windows-программа — [скачать](VAO_MST_Startanim_Boot_Tool_v1.0.1.exe) · 4 языка · Made with ♥ by VAO / vagcomantalyaofficial.
+
 ### Технические данные
 
 | Параметр | Значение |
@@ -296,6 +317,7 @@ shutdown -S reboot
 |---|---|
 | `startup_x.boot` | The boot animation (SCRT/MIFA, 800×480) |
 | `preview.png` | Main preview image |
+| `VAO_MST_Startanim_Boot_Tool_v1.0.1.exe` | Windows GUI tool (TR/RU/EN/DE) |
 | `README.md` | This document |
 
 ## Verify
